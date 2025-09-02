@@ -71,35 +71,7 @@ wanted to break down our favorite foods by category. We may have multiple
 categories and one or more items in _each_:
 
 ```html
-<ul>
-  <li>
-    Sandwiches
-    <ul>
-      <li>Banh Mi</li>
-      <li>Grilled Cheese</li>
-    </ul>
-  </li>
-  <li>
-    Snacks
-    <ul>
-      <li>Baba Ghanoush</li>
-      <li>Za’atar Bread</li>
-    </ul>
-  </li>
-  <li>
-    Soups
-    <ul>
-      <li>Tomato soup</li>
-    </ul>
-  </li>
-  <li>
-    Sushi
-    <ul>
-      <li>Sashimi</li>
-      <li>Uramaki</li>
-    </ul>
-  </li>
-</ul>
+  
 ```
 
 In this example, the nested lists will now be _further_ indented and instead of
